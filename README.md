@@ -18,6 +18,8 @@ HeaderHawk is a specialized MCP server designed to help security analysts, cyber
 - 📊 Business Email Compromise (BEC) pattern detection
 - 🔬 Social engineering tactic identification
 
+<img width="772" height="993" alt="image" src="https://github.com/user-attachments/assets/a51373b7-4f6e-46dd-b919-33d1dce93c2d" />
+
 ## Installation
 
 ### Prerequisites
@@ -667,5 +669,6 @@ MIT License - See LICENSE file for details
 ---
 
 **Made with 🦅 for cybersecurity professionals**
+
 
 For questions or support, reach out through GitHub Issues or community channels.
