@@ -1,0 +1,11 @@
+[project]
+name = "mcp-headerhawk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dnspython>=2.8.0",
+    "mcp>=1.25.0",
+    "python-whois>=0.9.6",
+]
