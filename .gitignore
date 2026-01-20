@@ -1,0 +1,82 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+logs/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv - Python package manager
+.venv/
+venv/
+env/
+ENV/
+.uv/
+.uv-cache/
+uv.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments (alternative names)
+.venv3/
+venv3/
+env3/
+.virtualenv/
+
+# pytest
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+*.cover
+*.py,cover
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+.env.local
+.env.*.local
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
